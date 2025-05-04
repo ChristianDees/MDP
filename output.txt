@@ -1,0 +1,476 @@
+State RU8p:
+--------------------
+Previous Value: 0.0
+New Value: 2.0
+Action Values: {'P': 2.0, 'R': 0.0, 'S': -1.0}
+Best Action: P
+
+State TU10p:
+--------------------
+Previous Value: 0.0
+New Value: 2.0
+Action Values: {'P': 2.0, 'R': 0.0}
+Best Action: P
+
+State RU10p:
+--------------------
+Previous Value: 0.0
+New Value: 2.0
+Action Values: {'P': 2.0, 'R': 0.0, 'S': -1.0}
+Best Action: P
+
+State RD10p:
+--------------------
+Previous Value: 0.0
+New Value: 2.0
+Action Values: {'P': 2.0, 'R': 0.0}
+Best Action: P
+
+State RU8a:
+--------------------
+Previous Value: 0.0
+New Value: 2.0
+Action Values: {'P': 2.0, 'R': 0.0, 'S': -1.0}
+Best Action: P
+
+State RD8a:
+--------------------
+Previous Value: 0.0
+New Value: 2.0
+Action Values: {'P': 2.0, 'R': 0.0}
+Best Action: P
+
+State TU10a:
+--------------------
+Previous Value: 0.0
+New Value: -1.0
+Action Values: {'any': -1.0}
+Best Action: any
+
+State RU10a:
+--------------------
+Previous Value: 0.0
+New Value: 0.0
+Action Values: {'any': 0.0}
+Best Action: any
+
+State RD10a:
+--------------------
+Previous Value: 0.0
+New Value: 4.0
+Action Values: {'any': 4.0}
+Best Action: any
+
+State TD10a:
+--------------------
+Previous Value: 0.0
+New Value: 3.0
+Action Values: {'any': 3.0}
+Best Action: any
+
+State RU8p:
+--------------------
+Previous Value: 2.0
+New Value: 3.98
+Action Values: {'P': 3.98, 'R': 1.98, 'S': 0.98}
+Best Action: P
+
+State TU10p:
+--------------------
+Previous Value: 2.0
+New Value: 1.98
+Action Values: {'P': 1.01, 'R': 1.98}
+Best Action: R
+
+State RU10p:
+--------------------
+Previous Value: 2.0
+New Value: 2.495
+Action Values: {'P': 2.495, 'R': 1.98, 'S': 0.98}
+Best Action: P
+
+State RD10p:
+--------------------
+Previous Value: 2.0
+New Value: 4.475
+Action Values: {'P': 4.475, 'R': 1.98}
+Best Action: P
+
+State RU8a:
+--------------------
+Previous Value: 2.0
+New Value: 2.96
+Action Values: {'P': 2.0, 'R': 0.0, 'S': 2.96}
+Best Action: S
+
+State RD8a:
+--------------------
+Previous Value: 2.0
+New Value: 5.96
+Action Values: {'P': 5.96, 'R': 3.96}
+Best Action: P
+
+State TU10a:
+--------------------
+Previous Value: -1.0
+New Value: -1.0
+Action Values: {'any': -1.0}
+Best Action: any
+
+State RU10a:
+--------------------
+Previous Value: 0.0
+New Value: 0.0
+Action Values: {'any': 0.0}
+Best Action: any
+
+State RD10a:
+--------------------
+Previous Value: 4.0
+New Value: 4.0
+Action Values: {'any': 4.0}
+Best Action: any
+
+State TD10a:
+--------------------
+Previous Value: 3.0
+New Value: 3.0
+Action Values: {'any': 3.0}
+Best Action: any
+
+State RU8p:
+--------------------
+Previous Value: 3.98
+New Value: 3.9602
+Action Values: {'P': 3.9602, 'R': 2.47005, 'S': 3.43025}
+Best Action: P
+
+State TU10p:
+--------------------
+Previous Value: 1.98
+New Value: 2.9304
+Action Values: {'P': 1.01, 'R': 2.9304}
+Best Action: R
+
+State RU10p:
+--------------------
+Previous Value: 2.495
+New Value: 4.9004
+Action Values: {'P': 2.9702, 'R': 2.9304, 'S': 4.9004}
+Best Action: S
+
+State RD10p:
+--------------------
+Previous Value: 4.475
+New Value: 6.4352
+Action Values: {'P': 6.4352, 'R': 5.9004}
+Best Action: P
+
+State RU8a:
+--------------------
+Previous Value: 2.96
+New Value: 2.96
+Action Values: {'P': 2.0, 'R': 0.0, 'S': 2.96}
+Best Action: S
+
+State RD8a:
+--------------------
+Previous Value: 5.96
+New Value: 5.96
+Action Values: {'P': 5.96, 'R': 3.96}
+Best Action: P
+
+State TU10a:
+--------------------
+Previous Value: -1.0
+New Value: -1.0
+Action Values: {'any': -1.0}
+Best Action: any
+
+State RU10a:
+--------------------
+Previous Value: 0.0
+New Value: 0.0
+Action Values: {'any': 0.0}
+Best Action: any
+
+State RD10a:
+--------------------
+Previous Value: 4.0
+New Value: 4.0
+Action Values: {'any': 4.0}
+Best Action: any
+
+State TD10a:
+--------------------
+Previous Value: 3.0
+New Value: 3.0
+Action Values: {'any': 3.0}
+Best Action: any
+
+State RU8p:
+--------------------
+Previous Value: 3.9602
+New Value: 5.370848
+Action Values: {'P': 4.901096, 'R': 4.851396, 'S': 5.370848}
+Best Action: S
+
+State TU10p:
+--------------------
+Previous Value: 2.9304
+New Value: 2.9304
+Action Values: {'P': 1.01, 'R': 2.9304}
+Best Action: R
+
+State RU10p:
+--------------------
+Previous Value: 4.9004
+New Value: 4.9004
+Action Values: {'P': 2.9702, 'R': 2.9304, 'S': 4.9004}
+Best Action: S
+
+State RD10p:
+--------------------
+Previous Value: 6.4352
+New Value: 6.4352
+Action Values: {'P': 6.4352, 'R': 5.9004}
+Best Action: P
+
+State RU8a:
+--------------------
+Previous Value: 2.96
+New Value: 2.96
+Action Values: {'P': 2.0, 'R': 0.0, 'S': 2.96}
+Best Action: S
+
+State RD8a:
+--------------------
+Previous Value: 5.96
+New Value: 5.96
+Action Values: {'P': 5.96, 'R': 3.96}
+Best Action: P
+
+State TU10a:
+--------------------
+Previous Value: -1.0
+New Value: -1.0
+Action Values: {'any': -1.0}
+Best Action: any
+
+State RU10a:
+--------------------
+Previous Value: 0.0
+New Value: 0.0
+Action Values: {'any': 0.0}
+Best Action: any
+
+State RD10a:
+--------------------
+Previous Value: 4.0
+New Value: 4.0
+Action Values: {'any': 4.0}
+Best Action: any
+
+State TD10a:
+--------------------
+Previous Value: 3.0
+New Value: 3.0
+Action Values: {'any': 3.0}
+Best Action: any
+
+State RU8p:
+--------------------
+Previous Value: 5.370848
+New Value: 5.370848
+Action Values: {'P': 4.901096, 'R': 4.851396, 'S': 5.370848}
+Best Action: S
+
+State TU10p:
+--------------------
+Previous Value: 2.9304
+New Value: 2.9304
+Action Values: {'P': 1.01, 'R': 2.9304}
+Best Action: R
+
+State RU10p:
+--------------------
+Previous Value: 4.9004
+New Value: 4.9004
+Action Values: {'P': 2.9702, 'R': 2.9304, 'S': 4.9004}
+Best Action: S
+
+State RD10p:
+--------------------
+Previous Value: 6.4352
+New Value: 6.4352
+Action Values: {'P': 6.4352, 'R': 5.9004}
+Best Action: P
+
+State RU8a:
+--------------------
+Previous Value: 2.96
+New Value: 2.96
+Action Values: {'P': 2.0, 'R': 0.0, 'S': 2.96}
+Best Action: S
+
+State RD8a:
+--------------------
+Previous Value: 5.96
+New Value: 5.96
+Action Values: {'P': 5.96, 'R': 3.96}
+Best Action: P
+
+State TU10a:
+--------------------
+Previous Value: -1.0
+New Value: -1.0
+Action Values: {'any': -1.0}
+Best Action: any
+
+State RU10a:
+--------------------
+Previous Value: 0.0
+New Value: 0.0
+Action Values: {'any': 0.0}
+Best Action: any
+
+State RD10a:
+--------------------
+Previous Value: 4.0
+New Value: 4.0
+Action Values: {'any': 4.0}
+Best Action: any
+
+State TD10a:
+--------------------
+Previous Value: 3.0
+New Value: 3.0
+Action Values: {'any': 3.0}
+Best Action: any
+
+========================================
+       Value Iteration Converged!       
+========================================
+Total Iterations: 5
+
+Final State Values:
+----------------------------------------
+RU8p: 5.3708
+TU10p: 2.9304
+RU10p: 4.9004
+RD10p: 6.4352
+RU8a: 2.9600
+RD8a: 5.9600
+TU10a: -1.0000
+RU10a: 0.0000
+RD10a: 4.0000
+TD10a: 3.0000
+terminal: 0.0000
+
+Optimal Policy:
+----------------------------------------
+RU8p: S
+TU10p: R
+RU10p: S
+RD10p: P
+RU8a: S
+RD8a: P
+TU10a: any
+RU10a: any
+RD10a: any
+TD10a: any
+terminal: None
+========================================
+
+
+Updating Q[RU8a][S]
+  Previous Q-value: 0.0000
+  New Q-value:      -0.1000
+  Reward:           -1
+  Max Q(next state):0.0000
+
+Updating Q[RD8a][P]
+  Previous Q-value: 0.0000
+  New Q-value:      0.2000
+  Reward:           2
+  Max Q(next state):0.0000
+
+========================================
+         Q-Learning Converged!          
+========================================
+  Total Episodes: 3
+
+
+  Learned Q-table:
+----------------------------------------
+    RU8p:
+      P: 0.0000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+    TU10p:
+      P: 0.0000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+    RU10p:
+      P: 0.0000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+    RD10p:
+      P: 0.0000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+    RU8a:
+      P: 0.0000
+      R: 0.0000
+      S: -0.1000
+      any: 0.0000
+    RD8a:
+      P: 0.2000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+    TU10a:
+      P: 0.0000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+    RU10a:
+      P: 0.0000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+    RD10a:
+      P: 0.0000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+    TD10a:
+      P: 0.0000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+    terminal:
+      P: 0.0000
+      R: 0.0000
+      S: 0.0000
+      any: 0.0000
+----------------------------------------
+
+  Optimal Policy (from Q-Learning):
+----------------------------------------
+    RU8p: P
+    TU10p: P
+    RU10p: P
+    RD10p: P
+    RU8a: P
+    RD8a: P
+    TU10a: None
+    RU10a: None
+    RD10a: None
+    TD10a: None
+    terminal: None
+----------------------------------------

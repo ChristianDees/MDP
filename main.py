@@ -207,7 +207,7 @@ def QLearning():
     return q_table, policy_q
 
                     
-    
+
     
 def main():
     parser = argparse.ArgumentParser(description="Solving a Markov Decision Process.")
